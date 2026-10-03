@@ -1,5 +1,6 @@
 import streamlit as st
 import math
+st.image("logo.JPG")
 
 # ==============================
 # CẤU HÌNH TRANG
