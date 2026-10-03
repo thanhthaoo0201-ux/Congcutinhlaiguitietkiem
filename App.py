@@ -7,7 +7,7 @@ st.image("logo.JPG")
 # ==============================
 
 st.set_page_config(
-    page_title="Tính lãi tiền gửi tiết kiệm",
+st.title("CÔNG CỤ TÍNH TIỀN GỬI TIẾT KIỆM_NGUYỄN THANH THẢO") 
     page_icon="💰",
     layout="centered"
 )
