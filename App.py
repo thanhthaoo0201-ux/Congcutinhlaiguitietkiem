@@ -1,6 +1,5 @@
 import streamlit as st
 import math
-st.image("logo.JPG")
 
 # ==============================
 # CẤU HÌNH TRANG
@@ -11,12 +10,12 @@ st.set_page_config(
     page_icon="💰",
     layout="centered"
 )
-
+st.image("logo.JPG")
+st.title("CÔNG CỤ TÍNH TIỀN GỬI TIẾT KIỆM_NGUYỄN THANH THẢO")
 # ==============================
 # TIÊU ĐỀ
 # ==============================
 
-st.title("💰 Ứng dụng tính lãi tiền gửi tiết kiệm")
 st.write("Tính lãi theo phương pháp **lãi đơn** hoặc **lãi kép**.")
 
 st.divider()
